@@ -1,0 +1,15 @@
+<table name="AR-Color-Attachments" image="guis/arcolor" color="Color(0.8, 0.2, 0.8)">
+
+	<Localization directory="locals" default="english.txt"/>
+	
+	<GlobalValue id="stoy_color" color="Color(0.8, 0.2, 0.8)"/>
+	
+	<!--	<AssetUpdates id="???" version="1.0" provider="modworkshop"/> -->
+	
+	<AddFiles directory="assets">
+		
+		<!-- ICONS -->
+		
+	</AddFiles>
+	
+</table>
