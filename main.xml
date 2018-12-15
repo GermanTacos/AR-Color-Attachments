@@ -6,6 +6,8 @@
 	
 	<!--	<AssetUpdates id="???" version="1.0" provider="modworkshop"/> -->
 	
+	<!-- COLORS -->
+	
 	<WeaponMod id="wpn_fps_ass_stoy_all_fc_hg_poly_arg" based_on="wpn_fps_upg_a_custom_free" type="handguard_zcolor" internal_part="false" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<stats damage="0"/>
 		<override>
@@ -50,7 +52,23 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<!-- LOWER RECEIVERS -->
+	
+	<WeaponMod id="wpn_fps_ass_stoy_556_lr_mp15"     based_on="wpn_fps_snp_tti_body_receiverlower" type="receiver_lower"  unit="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<adds>
+			<value_node value="wpn_fps_ass_stoy_556_fsl_m16a1"/>
+			<value_node value="wpn_fps_ass_stoy_556_ch_m16a1"/>
+			<value_node value="wpn_fps_ass_stoy_556_tr_m16a1"/>
+		</adds>
+		<weapons>
+			<value_node value="wpn_fps_ass_stoy_556"/>
+		</weapons>
+		<pcs/>
+	</WeaponMod>
+	
 	<AddFiles directory="assets">
+	
+		<!-- COLOR PTS -->
 	
 		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/m4a1_body_arg_df"/>
 		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/m4a1_body_dst_df"/>
@@ -85,6 +103,18 @@
 		<unit            path="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/wpn_fps_ass_stoy_556_st_m4a1_dst"/>
 		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/wpn_fps_ass_stoy_556_st_m4a1_dst"/>
 		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/wpn_fps_ass_stoy_556_st_m4a1_dst_thq"/>
+		
+		<!-- RECEIVER PTS -->
+		
+		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/mp15_body_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/mp15_body_nm"/>
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15"/>
+		<model           path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15"/>
+		<object          path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15"/>
+		<unit            path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15"/>
+		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15"/>
+		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15_thq"/>
 		
 		<!-- ICONS -->
 		
