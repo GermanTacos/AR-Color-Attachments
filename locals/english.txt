@@ -16,10 +16,12 @@
 	"bm_wp_wpn_fps_ass_stoy_all_fc_hg_poly_arg" : "Army Green Polymer",
 	"bm_wp_wpn_fps_ass_stoy_all_fc_pg_poly_arg" : "Army Green Polymer",
 	"bm_wp_wpn_fps_ass_stoy_all_fc_st_poly_arg" : "Army Green Polymer",
+	"bm_wp_wpn_fps_ass_stoy_all_fc_m_poly_arg"  : "Army Green Polymer",
 	
 	"bm_wp_wpn_fps_ass_stoy_all_fc_hg_poly_dsa" : "Desert Sand Polymer",
 	"bm_wp_wpn_fps_ass_stoy_all_fc_pg_poly_dsa" : "Desert Sand Polymer",
 	"bm_wp_wpn_fps_ass_stoy_all_fc_st_poly_dsa" : "Desert Sand Polymer",
+	"bm_wp_wpn_fps_ass_stoy_all_fc_m_poly_dsa"  : "Desert Sand Polymer",
 	
 	"bm_wp_wpn_fps_ass_stoy_556_lr_mp15" : "Smith & Wesson M&P15 Lower Receiver"
 	
