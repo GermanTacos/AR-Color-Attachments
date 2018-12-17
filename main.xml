@@ -19,10 +19,10 @@
 		<pcs/>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_stoy_all_fc_hg_poly_dst" based_on="wpn_fps_upg_a_custom_free" type="handguard_zcolor" internal_part="false" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+	<WeaponMod id="wpn_fps_ass_stoy_all_fc_st_poly_arg" based_on="wpn_fps_upg_a_custom_free" type="stock_zcolor" internal_part="false" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<stats damage="0"/>
 		<override>
-			<wpn_fps_ass_stoy_556_hg_m4 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m4_pts/wpn_fps_ass_stoy_556_hg_m4_dst"/>
+			<wpn_fps_ass_stoy_556_st_m4a1 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/wpn_fps_ass_stoy_556_st_m4a1_arg"/>
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_stoy_556"/>
@@ -30,10 +30,10 @@
 		<pcs/>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_stoy_all_fc_st_poly_arg" based_on="wpn_fps_upg_a_custom_free" type="stock_zcolor" internal_part="false" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+	<WeaponMod id="wpn_fps_ass_stoy_all_fc_hg_poly_dst" based_on="wpn_fps_upg_a_custom_free" type="handguard_zcolor" internal_part="false" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<stats damage="0"/>
 		<override>
-			<wpn_fps_ass_stoy_556_st_m4a1 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/wpn_fps_ass_stoy_556_st_m4a1_arg"/>
+			<wpn_fps_ass_stoy_556_hg_m4 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m4_pts/wpn_fps_ass_stoy_556_hg_m4_dst"/>
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_stoy_556"/>

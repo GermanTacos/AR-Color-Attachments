@@ -14,10 +14,10 @@
 	"bm_menu_zcamo_plural"            : "Camouflages",
 	
 	"bm_wp_wpn_fps_ass_stoy_all_fc_hg_poly_arg" : "Army Green Polymer",
-	"bm_wp_wpn_fps_ass_stoy_all_fc_hg_poly_dst" : "Desert Tan Polymer",
+	"bm_wp_wpn_fps_ass_stoy_all_fc_hg_poly_dst" : "Desert Sand Polymer",
 	
 	"bm_wp_wpn_fps_ass_stoy_all_fc_st_poly_arg" : "Army Green Polymer",
-	"bm_wp_wpn_fps_ass_stoy_all_fc_st_poly_dst" : "Desert Tan Polymer",
+	"bm_wp_wpn_fps_ass_stoy_all_fc_st_poly_dst" : "Desert Sand Polymer",
 	
 	"bm_wp_wpn_fps_ass_stoy_556_lr_mp15" : "Smith & Wesson M&P15 Lower Receiver"
 	
