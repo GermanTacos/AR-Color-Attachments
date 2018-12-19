@@ -34,6 +34,7 @@
 		<stats damage="0"/>
 		<override>
 			<wpn_fps_ass_stoy_556_hg_m4   unit="units/mods/weapons/wpn_fps_ass_stoy_556_m4_pts/wpn_fps_ass_stoy_556_hg_m4_dsa"/>
+			<wpn_fps_ass_stoy_556_hg_m607 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_hg_m607_dsa"/>
 			<wpn_fps_ass_stoy_556_hg_ddm4 unit="units/mods/weapons/wpn_fps_ass_stoy_556_ddm4_pts/wpn_fps_ass_stoy_556_hg_ddm4_dsa"/>
 			<wpn_fps_ass_stoy_556_hg_mk18 unit="units/mods/weapons/wpn_fps_ass_stoy_556_mk18_pts/wpn_fps_ass_stoy_556_hg_mk18_dsa"/>
 			<wpn_fps_ass_stoy_556_hg_moe  unit="units/mods/weapons/wpn_fps_ass_stoy_556_moe_pts/wpn_fps_ass_stoy_556_hg_moe_dsa"/>
@@ -62,6 +63,7 @@
 		<stats damage="0"/>
 		<override>
 			<wpn_fps_ass_stoy_556_st_m4a1 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m4a1_pts/wpn_fps_ass_stoy_556_st_m4a1_dsa"/>
+			<wpn_fps_ass_stoy_556_st_m607 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_st_m607_dsa"/>
 			<wpn_fps_ass_stoy_556_st_ddm4 unit="units/mods/weapons/wpn_fps_ass_stoy_556_ddm4_pts/wpn_fps_ass_stoy_556_st_ddm4_dsa"/>
 			<wpn_fps_ass_stoy_556_st_mk18 unit="units/mods/weapons/wpn_fps_ass_stoy_556_mk18_pts/wpn_fps_ass_stoy_556_st_mk18_dsa"/>
 			<wpn_fps_ass_stoy_556_st_t65  unit="units/mods/weapons/wpn_fps_ass_stoy_556_t65_pts/wpn_fps_ass_stoy_556_st_t65_dsa"/>
@@ -141,6 +143,23 @@
 		<unit            path="units/mods/weapons/wpn_fps_ass_stoy_556_m16a2_pts/wpn_fps_ass_stoy_556_pg_m16a2_dsa"/>
 		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m16a2_pts/wpn_fps_ass_stoy_556_pg_m16a2_dsa"/>
 		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m16a2_pts/wpn_fps_ass_stoy_556_pg_m16a2_dsa_thq"/>
+		
+		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/m607_dsa_furniture_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/m607_dsa_furniture_nm"/>
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_hg_m607_dsa"/>
+		<model           path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_hg_m607_dsa"/>
+		<object          path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_hg_m607_dsa"/>
+		<unit            path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_hg_m607_dsa"/>
+		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_hg_m607_dsa"/>
+		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_hg_m607_dsa_thq"/>
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_st_m607_dsa"/>
+		<model           path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_st_m607_dsa"/>
+		<object          path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_st_m607_dsa"/>
+		<unit            path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_st_m607_dsa"/>
+		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_st_m607_dsa"/>
+		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_m607_pts/wpn_fps_ass_stoy_556_st_m607_dsa_thq"/>
 		
 		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_mk18_pts/mk18_dsa_parts_df"/>
 		
