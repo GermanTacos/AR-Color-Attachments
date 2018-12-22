@@ -305,6 +305,11 @@
 		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15"/>
 		<material_config path="units/mods/weapons/wpn_fps_ass_stoy_556_mp15_pts/wpn_fps_ass_stoy_556_lr_mp15_thq"/>
 		
+		<!-- FALLBACK -->
+		
+		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_m16a2_pts/m16a2_body_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_ass_stoy_556_car15_pts/car15_furniture_nm"/>
+		
 		<!-- ICONS -->
 		
 	</AddFiles>
