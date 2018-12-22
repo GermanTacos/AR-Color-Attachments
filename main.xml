@@ -43,9 +43,11 @@
 			<wpn_fps_ass_stoy_556_hg_moe   unit="units/mods/weapons/wpn_fps_ass_stoy_556_moe_pts/wpn_fps_ass_stoy_556_hg_moe_dsa"/>
 			<wpn_fps_ass_stoy_556_hg_t65   unit="units/mods/weapons/wpn_fps_ass_stoy_556_t65_pts/wpn_fps_ass_stoy_556_hg_t65_dsa"/>
 			<wpn_fps_ass_stoy_556_hg_t86   unit="units/mods/weapons/wpn_fps_ass_stoy_556_t86_pts/wpn_fps_ass_stoy_556_hg_t86_dsa"/>
+			<wpn_fps_smg_stoy_919_hg_r0635 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m4_pts/wpn_fps_ass_stoy_556_hg_m4_dsa"/>
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_stoy_556"/>
+			<value_node value="wpn_fps_smg_stoy_919"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -57,9 +59,11 @@
 			<wpn_fps_ass_stoy_556_pg_m16   unit="units/mods/weapons/wpn_fps_ass_stoy_556_m16_pts/wpn_fps_ass_stoy_556_pg_m16_dsa"/>
 			<wpn_fps_ass_stoy_556_pg_m16a2 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m16a2_pts/wpn_fps_ass_stoy_556_pg_m16a2_dsa"/>
 			<wpn_fps_ass_stoy_556_pg_mk18  unit="units/mods/weapons/wpn_fps_ass_stoy_556_mk18_pts/wpn_fps_ass_stoy_556_pg_mk18_dsa"/>
+			<wpn_fps_smg_stoy_919_pg_r0635 unit="units/mods/weapons/wpn_fps_ass_stoy_556_m16a2_pts/wpn_fps_ass_stoy_556_pg_m16a2_dsa"/>
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_stoy_556"/>
+			<value_node value="wpn_fps_smg_stoy_919"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -78,6 +82,7 @@
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_stoy_556"/>
+			<value_node value="wpn_fps_smg_stoy_919"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
