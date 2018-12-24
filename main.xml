@@ -317,6 +317,12 @@
 		
 		<!-- ICONS -->
 		
+		<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_stoy_556_lr_mp15"/>
+		<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_stoy_all_fc_hg_poly_dsa"/>
+		<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_stoy_all_fc_m_poly_dsa"/>
+		<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_stoy_all_fc_pg_poly_dsa"/>
+		<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_stoy_all_fc_st_poly_dsa"/>
+		
 	</AddFiles>
 	
 </table>
