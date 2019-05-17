@@ -1,4 +1,4 @@
-<table name="AR-Color-Attachments" image="guis/arcolor" color="Color(0.8, 0.2, 0.8)">
+<table name="AR-Color-Attachments" priority="5" image="guis/arcolor" color="Color(0.8, 0.2, 0.8)">
 
 	<Localization directory="locals" default="english.txt"/>
 	
